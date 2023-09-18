@@ -101,9 +101,9 @@ proxy-providers:
 
   airports:
     type: http
-    url: "https://test2.sub-channel.workers.dev/vless/iphone/random"
+    url: "https://raw.githubusercontent.com/MrPooyaX/MahsaNG/master/Decrypted___MahsaNGConfigs.txt"
     interval: 86400
-    path: ./providers/airports.yaml
+    path: ./master/Decrypted___MahsaNGConfigs.txt
     health-check:
       enable: true
       interval: 3600
