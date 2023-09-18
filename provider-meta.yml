@@ -101,7 +101,7 @@ proxy-providers:
 
   airports:
     type: http
-    url: "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/airport_merge_yaml.yml"
+    url: "https://test2.sub-channel.workers.dev/vless/iphone/random"
     interval: 86400
     path: ./providers/airports.yaml
     health-check:
